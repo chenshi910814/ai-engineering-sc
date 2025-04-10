@@ -40,22 +40,40 @@ Below is my Hugging Face chatbot, created using Chainlit:
 [AI Maker Space LLM App](https://huggingface.co/spaces/chenshi910814/llm-app-ai-maker)
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested: Object-oriented programming is a way of writing computer programs by organizing data and the code that works with that data into objects.
+    - Aspect Tested: The ability to explain a complex concept using layman's terms.
+    - Explanation: Object-oriented programming is a way of writing computer programs by organizing data and the code that works with that data into objects.
 
     Imagine objects as containers that hold both data, like a person's name or age, and the functions, or actions, that can be performed with that data, like saying hello or calculating a person's age.
 
     Here's an example: Think of a car as an object. The data it holds could be things like its color, model, and speed. The functions it can perform could be actions like accelerating, braking, or honking the horn.
 
     By using object-oriented programming, we can create these objects, define how they interact with each other, and reuse them in different parts of our program. This helps make our code more organized, easier to understand, and more efficient to work with.
-    
+
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: The ability to summarize a paragraph
+    - Summary: The key points in the paragraph are that stocks surged on Wednesday following President Trump's decision to delay his "reciprocal" tariffs for 90 days. The S&P 500 saw a significant increase of 9.5 percent, marking its largest single-day gain since October 2008. This sudden change in policy brought relief to Wall Street, as it signaled that the potentially disruptive tariffs would not be immediately implemented, easing concerns about their impact on global trade.
+
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: The ability to make inference and create a story 
+    - Imaginative story: Once upon a time, in a bustling city filled with towering skyscrapers and bustling streets, there was a lonely robot named Spark. Spark spent his days wandering the city, searching for someone to befriend. One day, while exploring a quiet park on the outskirts of town, Spark stumbled upon a forgotten and abandoned toy robot lying in the grass.
+
+    Curious, Spark approached the toy robot and gently nudged it with his metallic hand. To his surprise, the toy robot sprang to life with a cheerful beep. The two robots quickly bonded over their shared love for exploring and learning new things. They spent their days exploring the city together, discovering hidden gems and forming an unbreakable friendship.
+
+    From that day on, Spark and his newfound friend roamed the city hand in hand, proving that friendship can be found in the most unexpected of places.
+
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: the ability to do math calculation
+    - Calculation: Let's break it down step by step to figure out how many packs of each you need to buy.
+
+    First, let's start with the apples. Since each pack contains 4 apples and you need a total of 12 apples, you would need to buy 12 divided by 4, which equals 3 packs of apples.
+
+    Next, let's move on to the oranges. Each pack contains 3 oranges, and you need a total of 9 oranges. So, you would need to buy 9 divided by 3, which equals 3 packs of oranges.
+
+    Therefore, to get exactly 12 apples and 9 oranges, you would need to buy 3 packs of apples and 3 packs of oranges.
+
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested:The ability to summarize and use appropriate tone 
+    - Summary: This week, 20-year-old American influencer Darren Watkins Jr., also known as IShowSpeed, recently completed a multi-week, high-profile tour of China. With an impressive following of nearly 120 million online followers across various platforms, IShowSpeed generated numerous hours of live content, fostering a unique moment of cultural exchange between China and the United States reminiscent of the American "TikTok refugee" migration to Xiaohongshu/RedNote in January.
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
