@@ -36,8 +36,18 @@ Each assignment will have a few of the following categories of exercises:
 
 Please evaluate your system on the following questions:
 
+Below is my Hugging Face chatbot, created using Chainlit:
+[AI Maker Space LLM App](https://huggingface.co/spaces/chenshi910814/llm-app-ai-maker)
+
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:
+    - Aspect Tested: Object-oriented programming is a way of writing computer programs by organizing data and the code that works with that data into objects.
+
+    Imagine objects as containers that hold both data, like a person's name or age, and the functions, or actions, that can be performed with that data, like saying hello or calculating a person's age.
+
+    Here's an example: Think of a car as an object. The data it holds could be things like its color, model, and speed. The functions it can perform could be actions like accelerating, braking, or honking the horn.
+
+    By using object-oriented programming, we can create these objects, define how they interact with each other, and reuse them in different parts of our program. This helps make our code more organized, easier to understand, and more efficient to work with.
+    
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
